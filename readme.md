@@ -77,7 +77,7 @@ Ideal for **screenshare investigations** or **console-based forensics**.
 
 ## 👨‍💻 Author
 
-**GhostHookHunter Pro** is developed by [starls]([https://github.com/your-link](https://github.com/voidopsx)) (Syntax Division / Larking Labs)  
+**GhostHookHunter Pro** is developed by [starls]([https://github.com/your-link](https://github.com/voidopsx)) 
 Built with **C++**, **WinAPI**, and **baremetal mindset** for operational security.
 
 ---
