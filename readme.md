@@ -85,4 +85,4 @@ Built with **C++**, **WinAPI**, and **baremetal mindset** for operational securi
 ## ⭐ Repository
 
 If you use this in your Blue Team stack, **drop a ⭐ and fork it.**  
-Want to contribute? **DM `@starls` or send a PR.**
+Want to contribute? **DM `@0xstarls` in discord or send a PR.**
